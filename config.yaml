@@ -17,7 +17,7 @@ menu:
     - name: About
       url: /about/
     - name: My GitHub
-      url: https://github.com/ffatchen
+      url: https://reverent-poincare-443f39.netlify.app
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
